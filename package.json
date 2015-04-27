@@ -1,0 +1,7 @@
+{
+  "name": "@cabbibo/text-extract",
+  "dependencies": {
+    "bl": "^0.9.4",
+    "mdjson": "^1.0.0"
+  }
+}
